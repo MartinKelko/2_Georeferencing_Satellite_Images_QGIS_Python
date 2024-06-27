@@ -1,0 +1,1 @@
+Python script is developed to automate georeferencing in QGIS, streamlining the entire process. It provides a detailed walkthrough of the script, explaining each component and how it enhances the efficiency of georeferencing.
