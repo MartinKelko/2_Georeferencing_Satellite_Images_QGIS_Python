@@ -2,6 +2,7 @@
 
 ## Description
 This Python script automates the georeferencing process in QGIS, enhancing efficiency by streamlining the entire workflow. It provides a detailed walkthrough of the script, explaining each component and how it contributes to the georeferencing process.
+https://medium.com/@martin2kelko/automating-georeferencing-of-satellite-images-in-qgis-using-python-837f3abef341
 
 ## How to Use
 To use this script, follow these steps:
