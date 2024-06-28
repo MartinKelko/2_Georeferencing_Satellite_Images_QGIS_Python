@@ -1,6 +1,52 @@
 # read the blog here (https://medium.com/@martin2kelko/automating-georeferencing-of-satellite-images-in-qgis-using-python-837f3abef341) > article walks through the script, explaining each
 # part and how it works to make the georeferencing process more efficient
 
+# Ignore PyCharm project settings
+.idea/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore other files you don't want to track
+*.tiff
+
+    # Ignore PyCharm project settings
+.idea/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore other files you don't want to track
+*.tiff
+
 from qgis.core import (
     QgsRasterLayer,
     QgsPointXY,
